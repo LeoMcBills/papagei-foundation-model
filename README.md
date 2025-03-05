@@ -5,6 +5,7 @@
      <h1>PaPaGei</h1> <br>
     <h2> Open Foundation Models for Optical Physiological Signals </h2>
   </summary>
+      
    </ul>
 </div>
 
